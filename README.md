@@ -1,4 +1,4 @@
-# So You Vibe-Coded Your Idea and Want to Share It with the World?
+# So You've Built Your Idea and Want to Share It with the World?
 
 ---
 **The opinions expressed in this article are solely those of the author([Andrey Shakirov](https://www.linkedin.com/in/andrey-shakirov-000b4a5/)) and do not reflect the views of their employer.**
@@ -13,7 +13,7 @@
 
 ## Deployment Options on Google Cloud
 
-So you've vibe-coded your innovative idea, turning that raw concept into a working application. Now, the next big step is to get it out there, accessible to users, reliably and at scale. This often means deploying a mix of frontend components (HTML, JavaScript, CSS, images) and your powerful backend code.
+So you've implemented your innovative idea, turning that raw concept into a working application. Now, the next big step is to get it out there, accessible to users, reliably and at scale. This often means deploying a mix of frontend components (HTML, JavaScript, CSS, images) and your powerful backend code.
 
 Google Cloud offers a robust ecosystem of services designed to host these assets, catering to every need from simple static sites to complex, scalable GenAI agents. Let's dive into your options.
 
